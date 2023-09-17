@@ -1,3 +1,5 @@
+![scrnli_17_09_2023_16-54-22 (1)](https://github.com/SahithiGangannagari/Testing_Tool_Guide/assets/98515521/f86a3842-9bb5-4cc4-81d3-21ba99256f3c)
+
 # Front end
 
 ## Project setup
