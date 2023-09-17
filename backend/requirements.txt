@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+Flask-HTTPAuth
+Flask-LDAPConn
+Flask-Session
+mysql-connector-python==8.0.29
+mysql-connector-python
+numpy
