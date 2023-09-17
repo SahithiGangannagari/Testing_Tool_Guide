@@ -1,4 +1,4 @@
-![scrnli_17_09_2023_16-54-22 (1)](https://github.com/SahithiGangannagari/Testing_Tool_Guide/assets/98515521/f86a3842-9bb5-4cc4-81d3-21ba99256f3c)
+![testing_tool_video](https://github.com/SahithiGangannagari/Testing_Tool_Guide/assets/98515521/1c8d9ff0-8424-4880-8fc3-d5bee6c368c4)
 
 # Front end
 
