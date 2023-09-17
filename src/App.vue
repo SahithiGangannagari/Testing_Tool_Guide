@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <HelloWorld msg="Welcome to our App"/>
+    <HelloWorld msg="TechTest Navigator: Testing Tool Guide 🚀"/>
     <CheckList />
     <br>
     <!-- <input v-model="name">
