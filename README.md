@@ -50,3 +50,26 @@ pip install -r requirements.txt
 ## Step 5: Run the App
 Now that you have set up the environment and installed the requirements, you can run the Python app using the app.py file. Use the following command:
 python app.py
+
+# Importing MySQL Database with XAMPP
+
+1. Start XAMPP and ensure MySQL is running.
+
+2. Open phpMyAdmin in your browser: [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/).
+
+3. Create a new database (optional).
+
+4. Click on the database you want to import data into.
+
+5. Go to the "Import" tab.
+
+6. Click "Choose File" and select `testing.sql`.
+
+7. Click "Go".
+
+8. Once the import is complete, you'll see a success message.
+
+9. Update your application to use the local database.
+
+You're done! The `testing.sql` file is now imported into your local MySQL database.
+
