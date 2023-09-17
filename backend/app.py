@@ -49,12 +49,9 @@ def getToolNames():
     # project_id = request.form["testProjectID"] tech_option
     tags = json.loads(request.form["selectedTags"])
     tech_option = json.loads(request.form["tech_option"])
-    print("&&&&&&&&")
-    print(tech_option)
-    print(tags)
+    
     lang_id = [ id['id'] for id in tags]
-    print(lang_id)
-    print("0000000")
+    
     tech_ids  = [ id['id'] for id in tech_option if id['value']]
     join = "%s," * (len(tech_ids) - 1) + "%s"
 
@@ -63,8 +60,7 @@ def getToolNames():
     cursor.execute(sql1, val1)
     result1 = cursor.fetchall()
     tool_ids = [ id['tools_id'] for id in result1]
-    print(tool_ids)
-    print("----------------")
+
     tech_info = {
         1: [1,2],
         2: [3,4,17,1,6,5,13], 
